@@ -1,0 +1,3 @@
+Now we will add some content to our docs!
+
+But we want to separate the added lines into multiple commits.
